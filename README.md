@@ -4,7 +4,7 @@ A remake of the classic NES *Bomberman* first level, written in Python as a firs
 
 The player moves through a scrolling grid, places bombs to destroy soft walls and enemies (Balloms), and has to find the hidden door to win.
 
-> **Status:** work in progress / paused. The core game is playable, see *Known issues* below.
+> **Status:** work in progress / paused. The core game is playable.
 
 ## Features
 
